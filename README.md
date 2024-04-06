@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,git,javascript,python,java,mysql" />
-    <img src="https://skillicons.dev/icons?i=kali,redhat,linux,windows,powershell,terminal" /><br>
+    <img src="https://skillicons.dev/icons?i=kali,redhat,linux,windows,powershell" /><br>
 </div>
 
 <br/>
