@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,git,javascript,python,java,mysql,redhat,linux,powershell" />
+    <img src="https://skillicons.dev/icons?i=html,css,github,git,javascript,python,java,mysql,kali,redhat,linux,powershell" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
