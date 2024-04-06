@@ -12,7 +12,7 @@
     
  🔭 I’m currently working on **pentester-tools-v.1**
  
- 🌱 I’m currently learning *C# & C++*
+ 🌱 I’m currently learning *C#, C++*
  
  <hr/>
  
